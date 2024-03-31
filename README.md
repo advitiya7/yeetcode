@@ -36,3 +36,6 @@ Follow the steps below to implement DFS on a graph:
 | Implementation complexity | More complex due to recursion | Simpler, as it uses a queue |
 | Use case | Better for decision tree, finding connected components | Better for finding shortest path, peer to peer networks |
 
+
+create a sperate folder for every ds.
+
