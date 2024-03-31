@@ -18,4 +18,7 @@ Follow the steps below to implement DFS on a graph:
 | Time-based questions | Not preferred | Preferred, as we traverse the graph one by one |
 | Intuitiveness | More intuitive | Less intuitive |
 | Traversal based on | Edges | Vertices |
+| Memory usage | Less, as it uses a stack | More, as it uses a queue |
+| Implementation complexity | More complex due to recursion | Simpler, as it uses a queue |
+| Use case | Better for decision tree, finding connected components | Better for finding shortest path, peer to peer networks |
 
