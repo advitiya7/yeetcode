@@ -11,3 +11,11 @@ Follow the steps below to implement DFS on a graph:
 4. **Create Direction Array:** Depending upon the direction, create a direction array and start the DFS.
 
 [Easy templates for revision ](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions).
+
+ Comparison Point | DFS | BFS |
+|------------------|-----|-----|
+| Shortest path | No, not always | Yes, typically |
+| Time-based questions | Not preferred | Preferred, as we traverse the graph one by one |
+| Intuitiveness | More intuitive | Less intuitive |
+| Traversal based on | Edges | Vertices |
+
