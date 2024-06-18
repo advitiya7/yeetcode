@@ -14,7 +14,7 @@ std::vector<int> findPreviousSmallerIndexes(const std::vector<int>& arr) {
 
         // While loop runs until the stack is not empty AND
         // the element represented by stack top is LARGER OR EQUAL to the current element
-        while (!stack.empty() && arr[stack.top()] >= arr[i]) {
+        while (!stack.empty() && stack.top() >= arr[i]) {
             // Pop out the top of the stack, it represents the index of the item
             stack.pop();
         }
