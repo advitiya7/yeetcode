@@ -26,7 +26,7 @@ std::vector<int> findNextGreaterIndexes(const std::vector<int>& arr) {
         }
 
         // Push the current element
-        stack.push(i);
+        stack.push(arr[i]);
     }
     return nextGreater;
 }

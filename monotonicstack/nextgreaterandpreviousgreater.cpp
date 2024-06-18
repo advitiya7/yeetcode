@@ -31,7 +31,7 @@ std::pair<std::vector<int>, std::vector<int>> findNextAndPreviousGreaterIndexes(
         }
 
         // Push the current element
-        stack.push(i);
+        stack.push(arr[i]);
     }
 
     return {previousGreater, nextGreater};

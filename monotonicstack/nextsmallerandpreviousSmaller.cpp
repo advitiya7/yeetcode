@@ -30,7 +30,7 @@ std::pair<std::vector<int>, std::vector<int>> findNextAndPreviousSmallerIndexes(
         }
 
         // Push the current element
-        stack.push(i);
+        stack.push(arr[i]);
     }
 
     return {nextSmaller, previousSmaller};
