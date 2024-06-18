@@ -24,7 +24,7 @@ std::vector<int> findNextSmallerIndexes(const std::vector<int>& arr) {
         }
 
         // Push the current element
-        stack.push(arr[i]);
+        stack.push(i);
     }
 
     return nextSmaller;
