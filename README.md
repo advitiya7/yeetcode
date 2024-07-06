@@ -39,3 +39,19 @@ Follow the steps below to implement DFS on a graph:
 
 create a sperate folder for every ds.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
+<!---LeetCode Topics End-->
