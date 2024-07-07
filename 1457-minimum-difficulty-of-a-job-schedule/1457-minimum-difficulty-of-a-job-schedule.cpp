@@ -1,27 +1,28 @@
 class Solution {
 public:
-int dp[301][11];
-    int solve(int i, int n, vector<int>& jobDifficulty, int d) {
-        if (d == 1) {
-            return *max_element(jobDifficulty.begin() + i, jobDifficulty.end());
-        }
-        int maxdiff = INT_MIN;
-        int ans = INT_MAX;
-        if(dp[i][d]!=-1){
-            return dp[i][d];
-        }
-        for (int j = i; j <= n - d; j++) {
-            maxdiff = max(maxdiff, jobDifficulty[j]);
-            ans = min(ans, maxdiff + solve(j + 1, n, jobDifficulty, d - 1));
-        }
-        return dp[i][d]=ans;
-    }
     int minDifficulty(vector<int>& jobDifficulty, int d) {
         int n = jobDifficulty.size();
         if (n < d) {
             return -1;
         }
-        memset(dp,-1,sizeof(dp));
-        return solve(0, n, jobDifficulty, d);
+        // dp[i][j]-> minimum difficulty from i to n-1 in j days
+        vector<vector<int>> dp(n + 1, vector<int>(d + 1, -1));
+        for (int i = 0; i < n; i++) {
+            dp[i][1] =
+                *max_element(jobDifficulty.begin() + i, jobDifficulty.end());
+        }
+        for (int days = 2; days <= d; days++) {
+            for (int i = 0; i <= n - days; i++) {
+                int maxDiff = INT_MIN;
+                int ans = INT_MAX;
+                for (int j = i; j <= n - days; j++) {
+                    maxDiff = max(maxDiff, jobDifficulty[j]);
+                    ans = min(ans, maxDiff + dp[j + 1][days - 1]);
+                }
+                dp[i][days] = ans;
+            }
+        }
+
+        return dp[0][d];
     }
 };
