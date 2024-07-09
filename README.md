@@ -72,9 +72,22 @@ create a sperate folder for every ds.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
