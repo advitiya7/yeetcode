@@ -11,35 +11,24 @@
  */
 class Solution {
 public:
-int result;
-int cntNodes(TreeNode* root){
+int res;
+pair<int,int>f(TreeNode* root){
     if(root==NULL){
-        return 0;
+        return {0,0};
     }
-    return 1+cntNodes(root->left)+cntNodes(root->right);
-}
-int nodeSum(TreeNode* root){
-    if(root==NULL){
-        return 0;
+    auto lsum=f(root->left);
+    auto rsum=f(root->right);
+    int totsum=lsum.first+rsum.first+root->val;
+    int totnodes=1+lsum.second+rsum.second;
+    int val=(totsum/totnodes);
+    if(val==root->val){
+        res++;
     }
-    return root->val+nodeSum(root->left)+nodeSum(root->right);
-}
-void solve(TreeNode* root){
-    if(root==NULL){
-        return ;
-    }
-    int n=cntNodes(root);
-    int sum=nodeSum(root);
-    if((sum)/n==root->val){
-        result++;
-    }
-    solve(root->left);
-    solve(root->right);
+return {totsum,totnodes};
 }
     int averageOfSubtree(TreeNode* root) {
-        solve(root);
-        return result;
-       
+        f(root);
+        return res;
         
     }
 };
