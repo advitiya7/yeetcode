@@ -63,6 +63,7 @@ create a sperate folder for every ds.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/advitiya7/yeetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
 | [0219-contains-duplicate-ii](https://github.com/advitiya7/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -100,6 +101,7 @@ create a sperate folder for every ds.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/advitiya7/yeetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/advitiya7/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
