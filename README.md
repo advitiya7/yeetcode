@@ -74,6 +74,7 @@ create a sperate folder for every ds.
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/advitiya7/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Backtracking
 |  |
