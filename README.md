@@ -45,6 +45,7 @@ create a sperate folder for every ds.
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -64,6 +65,7 @@ create a sperate folder for every ds.
 | ------- |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
 | [0219-contains-duplicate-ii](https://github.com/advitiya7/yeetcode/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -76,6 +78,7 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Greedy
 |  |
@@ -85,6 +88,7 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
