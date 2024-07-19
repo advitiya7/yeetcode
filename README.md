@@ -55,6 +55,7 @@ create a sperate folder for every ds.
 | [0516-longest-palindromic-subsequence](https://github.com/advitiya7/yeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3468-find-the-encrypted-string](https://github.com/advitiya7/yeetcode/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ create a sperate folder for every ds.
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
 |  |
 | ------- |
