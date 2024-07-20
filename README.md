@@ -86,6 +86,7 @@ create a sperate folder for every ds.
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/advitiya7/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/advitiya7/yeetcode/tree/master/1755-defuse-the-bomb) |
 ## Backtracking
@@ -146,6 +147,7 @@ create a sperate folder for every ds.
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
