@@ -158,8 +158,13 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## Memoization
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
