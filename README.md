@@ -92,6 +92,7 @@ create a sperate folder for every ds.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/advitiya7/yeetcode/tree/master/1755-defuse-the-bomb) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/advitiya7/yeetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -110,6 +111,7 @@ create a sperate folder for every ds.
 | ------- |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ create a sperate folder for every ds.
 | [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Tree
 |  |
@@ -135,6 +138,7 @@ create a sperate folder for every ds.
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
@@ -159,6 +163,7 @@ create a sperate folder for every ds.
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 ## Heap (Priority Queue)
 |  |
