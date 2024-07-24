@@ -70,6 +70,7 @@ create a sperate folder for every ds.
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [2562-count-ways-to-build-good-strings](https://github.com/advitiya7/yeetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Array
 |  |
