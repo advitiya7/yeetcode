@@ -92,6 +92,7 @@ create a sperate folder for every ds.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/advitiya7/yeetcode/tree/master/1755-defuse-the-bomb) |
+| [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/advitiya7/yeetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Backtracking
@@ -158,6 +159,7 @@ create a sperate folder for every ds.
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,6 +173,7 @@ create a sperate folder for every ds.
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +182,8 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
+## Number Theory
+|  |
+| ------- |
+| [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
