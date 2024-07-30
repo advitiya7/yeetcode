@@ -55,6 +55,7 @@ create a sperate folder for every ds.
 | [0049-group-anagrams](https://github.com/advitiya7/yeetcode/tree/master/0049-group-anagrams) |
 | [0516-longest-palindromic-subsequence](https://github.com/advitiya7/yeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
+| [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -83,6 +84,7 @@ create a sperate folder for every ds.
 | [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
+| [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1025-minimum-cost-for-tickets](https://github.com/advitiya7/yeetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -173,6 +175,7 @@ create a sperate folder for every ds.
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 ## Math
 |  |
