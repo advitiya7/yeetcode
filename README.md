@@ -100,6 +100,7 @@ create a sperate folder for every ds.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/advitiya7/yeetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
+| [2721-sum-of-distances](https://github.com/advitiya7/yeetcode/tree/master/2721-sum-of-distances) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/advitiya7/yeetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Backtracking
@@ -145,6 +146,7 @@ create a sperate folder for every ds.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2721-sum-of-distances](https://github.com/advitiya7/yeetcode/tree/master/2721-sum-of-distances) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
@@ -181,6 +183,7 @@ create a sperate folder for every ds.
 | ------- |
 | [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [2721-sum-of-distances](https://github.com/advitiya7/yeetcode/tree/master/2721-sum-of-distances) |
 ## Math
 |  |
 | ------- |
