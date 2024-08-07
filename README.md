@@ -182,6 +182,7 @@ create a sperate folder for every ds.
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2649-count-total-number-of-colored-cells](https://github.com/advitiya7/yeetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 ## Memoization
 |  |
