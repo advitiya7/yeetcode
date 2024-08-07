@@ -71,6 +71,7 @@ create a sperate folder for every ds.
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/advitiya7/yeetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/advitiya7/yeetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Array
@@ -95,6 +96,7 @@ create a sperate folder for every ds.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/advitiya7/yeetcode/tree/master/1755-defuse-the-bomb) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/advitiya7/yeetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/advitiya7/yeetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
