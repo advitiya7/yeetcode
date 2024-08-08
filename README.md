@@ -73,6 +73,7 @@ create a sperate folder for every ds.
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/advitiya7/yeetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/advitiya7/yeetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/advitiya7/yeetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ create a sperate folder for every ds.
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2721-sum-of-distances](https://github.com/advitiya7/yeetcode/tree/master/2721-sum-of-distances) |
 | [2751-sliding-subarray-beauty](https://github.com/advitiya7/yeetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/advitiya7/yeetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/advitiya7/yeetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Backtracking
@@ -195,6 +197,7 @@ create a sperate folder for every ds.
 | [2507-number-of-common-factors](https://github.com/advitiya7/yeetcode/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/advitiya7/yeetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2670-make-k-subarray-sums-equal](https://github.com/advitiya7/yeetcode/tree/master/2670-make-k-subarray-sums-equal) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/advitiya7/yeetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Memoization
 |  |
 | ------- |
