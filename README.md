@@ -91,6 +91,7 @@ create a sperate folder for every ds.
 | [0713-subarray-product-less-than-k](https://github.com/advitiya7/yeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1025-minimum-cost-for-tickets](https://github.com/advitiya7/yeetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/advitiya7/yeetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/advitiya7/yeetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -125,6 +126,7 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/advitiya7/yeetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/advitiya7/yeetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
