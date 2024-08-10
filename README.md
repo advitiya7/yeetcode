@@ -71,6 +71,7 @@ create a sperate folder for every ds.
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [1511-count-number-of-teams](https://github.com/advitiya7/yeetcode/tree/master/1511-count-number-of-teams) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/advitiya7/yeetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/advitiya7/yeetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/advitiya7/yeetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
@@ -93,6 +94,7 @@ create a sperate folder for every ds.
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
+| [1511-count-number-of-teams](https://github.com/advitiya7/yeetcode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/advitiya7/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -217,4 +219,12 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/advitiya7/yeetcode/tree/master/2507-number-of-common-factors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/advitiya7/yeetcode/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/advitiya7/yeetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
