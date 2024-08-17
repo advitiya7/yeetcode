@@ -59,6 +59,7 @@ create a sperate folder for every ds.
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/advitiya7/yeetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3468-find-the-encrypted-string](https://github.com/advitiya7/yeetcode/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ create a sperate folder for every ds.
 | [2562-count-ways-to-build-good-strings](https://github.com/advitiya7/yeetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/advitiya7/yeetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/advitiya7/yeetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/advitiya7/yeetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Array
 |  |
 | ------- |
@@ -163,12 +165,14 @@ create a sperate folder for every ds.
 | [2751-sliding-subarray-beauty](https://github.com/advitiya7/yeetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/advitiya7/yeetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/advitiya7/yeetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Counting
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/advitiya7/yeetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/advitiya7/yeetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/advitiya7/yeetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Sliding Window
 |  |
 | ------- |
