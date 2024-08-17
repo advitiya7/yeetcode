@@ -67,6 +67,7 @@ create a sperate folder for every ds.
 | [0516-longest-palindromic-subsequence](https://github.com/advitiya7/yeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/advitiya7/yeetcode/tree/master/0647-palindromic-substrings) |
 | [1025-minimum-cost-for-tickets](https://github.com/advitiya7/yeetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/advitiya7/yeetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/advitiya7/yeetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/advitiya7/yeetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/advitiya7/yeetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -91,6 +92,7 @@ create a sperate folder for every ds.
 | [0713-subarray-product-less-than-k](https://github.com/advitiya7/yeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
 | [1025-minimum-cost-for-tickets](https://github.com/advitiya7/yeetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/advitiya7/yeetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/advitiya7/yeetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/advitiya7/yeetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/advitiya7/yeetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
