@@ -93,6 +93,7 @@ create a sperate folder for every ds.
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/advitiya7/yeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/advitiya7/yeetcode/tree/master/0878-shifting-letters) |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/advitiya7/yeetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/advitiya7/yeetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/advitiya7/yeetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -188,6 +189,7 @@ create a sperate folder for every ds.
 | [0049-group-anagrams](https://github.com/advitiya7/yeetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/advitiya7/yeetcode/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1488-sort-integers-by-the-power-value](https://github.com/advitiya7/yeetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/advitiya7/yeetcode/tree/master/1503-reducing-dishes) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/advitiya7/yeetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -198,6 +200,7 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +210,7 @@ create a sperate folder for every ds.
 ## Math
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/advitiya7/yeetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/advitiya7/yeetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/advitiya7/yeetcode/tree/master/2507-number-of-common-factors) |
@@ -238,4 +242,16 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/advitiya7/yeetcode/tree/master/1511-count-number-of-teams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
