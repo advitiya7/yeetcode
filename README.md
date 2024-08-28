@@ -87,6 +87,7 @@ create a sperate folder for every ds.
 | [0049-group-anagrams](https://github.com/advitiya7/yeetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/advitiya7/yeetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/advitiya7/yeetcode/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/advitiya7/yeetcode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/advitiya7/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/advitiya7/yeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -138,6 +139,7 @@ create a sperate folder for every ds.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/advitiya7/yeetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/advitiya7/yeetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/advitiya7/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/advitiya7/yeetcode/tree/master/0658-find-k-closest-elements) |
