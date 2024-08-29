@@ -256,4 +256,12 @@ create a sperate folder for every ds.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/advitiya7/yeetcode/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/advitiya7/yeetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/advitiya7/yeetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
