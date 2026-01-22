@@ -1,0 +1,18 @@
+// Last updated: 1/22/2026, 7:52:19 PM
+class Solution {
+public:
+    int partitionString(string s) {
+        unordered_map<char,int>mp;
+        int cnt=1;
+        for(int i=0;i<s.size();i++){
+            if(mp.find(s[i])!=mp.end()){
+                mp.clear();
+                cnt++;
+            }
+            mp[s[i]]++;
+        }
+        return cnt;
+
+        }        
+    
+};
