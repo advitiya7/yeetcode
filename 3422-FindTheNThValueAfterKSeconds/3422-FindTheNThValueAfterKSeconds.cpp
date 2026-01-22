@@ -1,0 +1,16 @@
+// Last updated: 1/22/2026, 7:50:43 PM
+class Solution {
+public:
+    int valueAfterKSeconds(int n, int k) {
+        int mod=1000000007;
+        vector<int>v(n,1);
+        for(int i=0;i<k;i++){
+            for(int j=1;j<n;j++){
+                v[j]=(v[j-1]+v[j])%mod;
+            }
+        }
+        return v[n-1]%mod;
+
+    
+}
+};
